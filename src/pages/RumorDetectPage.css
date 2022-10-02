@@ -1,0 +1,45 @@
+.bar {
+  height: 100%;
+  background-color: #19606d;
+  position: relative;
+}
+.barTop {
+  background-color: #155560;
+}
+.barList {
+  padding: 10px;
+  height: 56px;
+}
+.barIcon {
+  width: 36px;
+  height: 36px;
+  padding: 2px;
+}
+.barText {
+  line-height: 36px;
+  color: white;
+}
+.barBottom {
+  position: absolute;
+  bottom: 0;
+}
+.icon1 {
+  height: 17px;
+  width: 12px;
+  position: relative;
+  left: -90px;
+}
+.icon2 {
+  height: 17px;
+  width: 12px;
+  position: relative;
+  left: -110px;
+}
+.title {
+  height: 17px;
+  width: 550px;
+  line-height: 17px;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left: 20px;
+}
